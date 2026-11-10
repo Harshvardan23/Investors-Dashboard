@@ -25,3 +25,7 @@ Looker Studio
  ▼
 Auto-refresh — every Monday, 9:00 AM
 ```
+
+## Dashboard Preview
+
+![Investors Dashboard](INVESTORS/Investors_Dashboard_page-0001.jpg)
